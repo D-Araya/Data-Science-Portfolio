@@ -1,7 +1,3 @@
-¡Por supuesto\! Aquí tienes tu `README.md` actualizado y coherente, integrando las descripciones generadas en la estructura que proporcionaste.
-
------
-
 # Mi Portafolio de Ciencia de Datos
 
 ¡Hola\! 👋 Soy **Daniel Araya R.** y este es mi portafolio de proyectos en Ciencia de Datos. Aquí encontrarás una colección de trabajos que demuestran mi experiencia en el ciclo de vida completo del Machine Learning, desde la creación de modelos predictivos hasta su despliegue en producción.
