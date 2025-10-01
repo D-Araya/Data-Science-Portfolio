@@ -6,4 +6,4 @@ Este proyecto está actualmente en desarrollo.
 
 ---
 
-[Volver al índice principal](../../README.md) | [Volver a Deep Learning](../README.md)
+[Volver al índice principal](../../README.md) | [Volver a Deep Learning](../README.md) | [Actividad Siguiente →](../Actividad_5_Transfer_Learning/README.md)

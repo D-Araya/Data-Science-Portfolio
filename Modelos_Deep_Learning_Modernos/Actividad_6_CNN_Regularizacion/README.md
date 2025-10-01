@@ -6,4 +6,4 @@ Este proyecto está actualmente en desarrollo.
 
 ---
 
-[Volver al índice principal](../../README.md) | [Volver a Deep Learning](../README.md)
+[Volver al índice principal](../../README.md) | [Volver a Deep Learning](../README.md) | [Actividad Siguiente →](../Actividad_7_Scoring_Crediticio/README.md)
