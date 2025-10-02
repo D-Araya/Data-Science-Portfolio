@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Soy **Daniel Araya** y este es mi portafolio de proyectos en Ciencia de Datos. Aquí encontrarás una colección de trabajos que demuestran mi experiencia en el ciclo de vida completo del Machine Learning, desde la creación de modelos predictivos hasta su despliegue en producción.
 
-El objetivo de este repositorio es aplicar y comparar diversas técnicas avanzadas en áreas clave como Regresión, Clustering, Deep Learning, Procesamiento del Lenguaje Natural (NLP) e Interpretabilidad de Modelos (XAI). Cada proyecto está diseñado para resolver problemas concretos y documentar el proceso de manera clara y reproducible.
+El objetivo de este repositorio es aplicar y comparar diversas técnicas avanzadas en áreas clave como Optimización, Regresión, Clustering, Deep Learning, Procesamiento del Lenguaje Natural (NLP) e Interpretabilidad de Modelos (XAI). Cada proyecto está diseñado para resolver problemas concretos y documentar el proceso de manera clara y reproducible.
 
 -----
 
