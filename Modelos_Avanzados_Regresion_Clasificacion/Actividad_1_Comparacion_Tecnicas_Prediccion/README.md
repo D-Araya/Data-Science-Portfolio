@@ -1,4 +1,4 @@
-# Actividad 1: Comparación de técnicas avanzadas para predicción de ingresos
+# Actividad 1: Comparación de técnicas avanzadas para predicción de ingresos, un problema de Regresión o Clasificación?
 
 ## 🚧 En Construcción
 
