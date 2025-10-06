@@ -42,14 +42,11 @@ Se recomienda implementar el **modelo XGBoost** para la tarea de predicción de 
 Para correr este proyecto en tu entorno local, sigue estos pasos:
 
 1.  **Asegúrate de tener Python 3.8 o superior.**
-
 2.  **Clona o descarga este repositorio.**
-
 3.  **Instala las librerías necesarias:**
     ```bash
     pip install numpy pandas matplotlib seaborn scikit-learn xgboost
     ```
-
 4.  **Ejecuta el notebook de Jupyter:**
     `Actividad_1_Modulo_5_Comp_técnicas_avanzadas_predicción_ingresos.ipynb`
 
