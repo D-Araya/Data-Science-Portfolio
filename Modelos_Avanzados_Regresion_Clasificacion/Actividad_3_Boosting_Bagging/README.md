@@ -1,5 +1,3 @@
-Claro, aquí está el texto traducido al español:
-
 # Comparación de Métodos de Ensamble: Boosting vs. Bagging
 
 Este proyecto realiza un análisis comparativo detallado de dos potentes técnicas de ensamble, Bagging (Random Forest) y Boosting (AdaBoost y Gradient Boosting), para resolver un problema de predicción de altos ingresos.
