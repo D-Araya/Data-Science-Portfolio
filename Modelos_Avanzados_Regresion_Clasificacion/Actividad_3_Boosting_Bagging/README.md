@@ -38,7 +38,7 @@ El proyecto sigue un flujo de trabajo estructurado de aprendizaje automático:
 
 Para esta tarea de predicción, se recomienda la implementación del modelo **Gradient Boosting**. Proporciona una ventaja de rendimiento ligera pero clara sobre los otros dos métodos, asegurando la clasificación más precisa de los rangos de ingresos.
 
-# [**Ir al Proyecto**](../Actividad_2_Comparativa_Regresion/Actividad_3_Boosting_Bagging/Actividad_3_Modulo_5_Comparación_métodos_Boosting_y_Bagging_predicción_ingresos.ipynb)
+# [**Ir al Proyecto**](../Actividad_3_Boosting_Bagging/Actividad_3_Modulo_5_Comparación_métodos_Boosting_y_Bagging_predicción_ingresos.ipynb)
 
 -----
 
