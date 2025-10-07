@@ -35,7 +35,7 @@ El análisis sigue un flujo de trabajo claro y metódico:
 - Se recomienda **`Lasso`** cuando el objetivo es obtener un **modelo más simple e interpretable**, ya que realiza una selección automática de las características más relevantes.
 
 
-# [**Ir al Proyecto**](../Actividad_2_Comparativa_Regresion/Actividad_5_Regularizacion/Actividad_5_Modulo_5_Aplicación_Regularización_Modelo_Regresión.ipynb)
+# [**Ir al Proyecto**](../Actividad_5_Regularizacion/Actividad_5_Modulo_5_Aplicación_Regularización_Modelo_Regresión.ipynb)
 
 
 ---
