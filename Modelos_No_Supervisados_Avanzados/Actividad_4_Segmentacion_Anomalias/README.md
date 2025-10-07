@@ -60,7 +60,7 @@ Para correr este proyecto en tu entorno local, sigue estos pasos:
     pip install pandas numpy scikit-learn umap-learn hdbscan matplotlib seaborn
     ```
 4.  **Ejecuta el notebook de Jupyter:**
-    `Evaluacion_Modulo_6_Análisis_Segmentación_y_Detección_Anomalías_Pacientes_Crónicos.ipynb`
+    `Actividad_4_Modulo_6_Análisis_Segmentación_y_Detección_Anomalías_Pacientes_Crónicos.ipynb`
 
 ---
 
