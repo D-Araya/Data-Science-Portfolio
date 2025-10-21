@@ -1,0 +1,8 @@
+# Este archivo lista las librerías de Python necesarias para ejecutar el proyecto.
+# Puedes instalarlas todas con el comando: pip install -r requirements.txt
+Flask==3.0.3
+Flask-Cors==4.0.1
+scikit-learn==1.4.2  
+joblib==1.4.2
+numpy==1.26.4
+requests==2.32.3

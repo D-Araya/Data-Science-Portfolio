@@ -1,0 +1,23 @@
+# ----------------------------------------------------------------------------------
+# requirements.txt
+# ----------------------------------------------------------------------------------
+# Descripción:
+# Este archivo lista las dependencias de Python para el proyecto.
+# Fijar las versiones con == es una buena práctica para asegurar que el
+# entorno sea reproducible y evitar que actualizaciones inesperadas de una
+# librería rompan la aplicación.
+# Estas versiones son compatibles con Python 3.11 y funcionan bien juntas.
+# ----------------------------------------------------------------------------------
+# Framework para la API web
+Flask==3.0.0
+
+# Librerías para machine learning y manipulación de datos
+scikit-learn==1.3.2
+pandas==2.1.4
+numpy==1.26.2
+
+# Utilidad para guardar y cargar modelos de scikit-learn
+joblib==1.3.2
+
+# Servidor WSGI de producción para la aplicación Flask
+gunicorn==21.2.0
