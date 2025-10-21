@@ -565,3 +565,8 @@ Este pipeline de CI/CD implementa las mejores prácticas de MLOps moderno, asegu
 - **Seguridad** mediante el uso de secretos encriptados
 
 El pipeline está diseñado para ser mantenible, escalable y fácil de entender, facilitando tanto el desarrollo como la operación del sistema de ML en producción.
+
+---
+
+---
+[Volver al índice principal](../../README.md) | [Volver a MLOps](../README.md)

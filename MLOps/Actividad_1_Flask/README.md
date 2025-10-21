@@ -58,3 +58,7 @@ python test_api.py
 ```
 
 Este script enviará múltiples solicitudes (válidas e inválidas) a la API y mostrará en la consola los resultados de cada prueba, permitiendo verificar que todo funciona como se espera.
+
+---
+
+[Volver al índice principal](../../README.md) | [Volver a MLOps](../README.md) | [Actividad Siguiente →](../Actividad_2_Docker/README.md)
